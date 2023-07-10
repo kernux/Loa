@@ -5,13 +5,13 @@
 
 ### 生成CS的payload文件
 
-![](https://github.com/L4ml3da/Loa/master/img/cs_payload.jpg)
+![](https://github.com/L4ml3da/Loa/blob/master/img/cs_payload.jpg)
 
 ### 生成含有shellcode的图片
 
 1、将payload.bin和随意一张1.jpg图片放在同目录下，运行生成test.jpg
 
-![](https://github.com/L4ml3da/Loa/master/img/page.jpg)
+![](https://github.com/L4ml3da/Loa/blob/master/img/page.jpg)
 
 2、将test.jpg图片放到vps上供shellLoader加载
 
@@ -21,11 +21,11 @@ Python3 -m http.server 9091
 
 1、修改Loa.cpp中图片下载地址
 
-![](https://github.com/L4ml3da/Loa/master/img/loa.jpg)
+![](https://github.com/L4ml3da/Loa/blob/master/img/loa.jpg)
 
 2、编译shellLoader，详细编译方法请参考syswhisper项目中的说明
 
-![](https://github.com/L4ml3da/Loa/master/img/complie.jpg)
+![](https://github.com/L4ml3da/Loa/blob/master/img/complie.jpg)
 
 ## 免责申明
 
@@ -35,6 +35,6 @@ Python3 -m http.server 9091
 
 ## 关注我们
 
-![](https://github.com/L4ml3da/Loa/master/img/gzh.jpg)
+![](https://github.com/L4ml3da/Loa/blob/master/img/gzh.jpg)
 
-![](https://github.com/L4ml3da/Tinker/blob/master/img/xq.jpg)
+![](https://github.com/L4ml3da/Loa/blob/master/img/xq.jpg)
