@@ -35,6 +35,6 @@ Python3 -m http.server 9091
 
 ## 关注我们
 
-![](https://github.com/L4ml3da/Loa/blob/master/img/gzh.jpg)
+![](https://github.com/L4ml3da/Loa/blob/master/img/gzh.png)
 
 ![](https://github.com/L4ml3da/Loa/blob/master/img/xq.jpg)
